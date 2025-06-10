@@ -24,3 +24,6 @@ It allows users to rent and return cars interactively, while managing customers 
 - *No database / no external frameworks*
 
 ---
+## 🙋‍♂️ About Me
+👋 I'm Rajat Bisen, a BCA graduate passionate about Java development.
+This project was built to demonstrate backend development skills using Java + JDBC — fully hands-on with no frameworks or external libraries
